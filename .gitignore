@@ -1,0 +1,6 @@
+# personal configuration (account ids, key paths, elastic IP)
+config.env
+
+# scratch
+*.log
+.DS_Store
